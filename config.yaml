@@ -1,0 +1,4 @@
+data_sources:
+  busfactor_test: "sqlite:///synthetic.db"
+  # add more here later, e.g.:
+  # busfactor_pg: "postgresql://readonly_user:pw@localhost/synthetic"
