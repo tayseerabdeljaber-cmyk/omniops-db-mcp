@@ -14,3 +14,7 @@ synthetic.db
 
 # OS
 .DS_Store
+
+# presentation files, not part of the project
+*.pptx
+SCRIPT.pdf
